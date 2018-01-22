@@ -31,3 +31,5 @@ Git spurningar og svör
 8.	Hvenær er sniðugt að nota greinar (branches)? = ef þú vilt gera öðruvísi tegund af verkefninu eða ef þú vilt gera test version af því sem er ekki main version og hefur ekki áhrif á main versionið.
 
 9.	Hver fann upp GIT? = Linus Torvalds.
+
+10.	Hvar er GIT helst notað? = fyrir hópverkefni.
