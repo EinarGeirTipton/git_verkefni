@@ -12,3 +12,8 @@ Git spurningar og svör
 	git status	=sýnir paths sem hafa mismuni.
 	git diff   =sýnir mismuni á milli commits commits.
 	git checkout	=skiftir um branches.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff=sýnir mismuni á milli commits commits.
+	b) git diff --staged =sýnir mismuninn á milli staged og commit.
+	c) git diff commit1 commit2 = sýnir mismunin milli tveggja commits.
