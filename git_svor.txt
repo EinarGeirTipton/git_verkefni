@@ -1,4 +1,4 @@
-Git spurningar og svör
+﻿Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd	=skiptir um directory.
 	cd ~	=fer í heima directoryið.
@@ -33,3 +33,5 @@ Git spurningar og svör
 9.	Hver fann upp GIT? = Linus Torvalds.
 
 10.	Hvar er GIT helst notað? = fyrir hópverkefni.
+
+Einar Geir Tipton.
