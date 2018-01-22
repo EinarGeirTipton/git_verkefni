@@ -23,3 +23,7 @@ Git spurningar og svör
 5.	Hverjir eru helstu kostir við að nota GIT? = aðalega version control.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? =þegar þú ert búinn að gera annað hvort mikið af litlum hlutum eða einum stórum það gerir það betra heldur enn að commita fyrir hverja litlu breytu og stórar breytur til að spara þess að ef talvan bilar eða rafmagn dettur út að ekki of mikið sé týnt.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? =Working directory er hvar þú vinnur í sjálfu verkefninu.
+=staging area er staður sem breyturnar eru geymdar áður enn þær eru settar í repository.
+=repository er þar sem verkefnið er geymmt á git og er eki á tölvuni manns.
