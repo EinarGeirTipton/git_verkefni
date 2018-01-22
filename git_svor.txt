@@ -17,3 +17,5 @@ Git spurningar og svör
 	a) git diff=sýnir mismuni á milli commits commits.
 	b) git diff --staged =sýnir mismuninn á milli staged og commit.
 	c) git diff commit1 commit2 = sýnir mismunin milli tveggja commits.
+
+4. 	Hvað er útgáfustýring (e.version control)? = version control fylgist með og geymir allar breytur sem hafa verið gerðar við verkefnið.
