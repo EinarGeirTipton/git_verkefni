@@ -21,3 +21,5 @@ Git spurningar og svör
 4. 	Hvað er útgáfustýring (e.version control)? = version control fylgist með og geymir allar breytur sem hafa verið gerðar við verkefnið.
 
 5.	Hverjir eru helstu kostir við að nota GIT? = aðalega version control.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? =þegar þú ert búinn að gera annað hvort mikið af litlum hlutum eða einum stórum það gerir það betra heldur enn að commita fyrir hverja litlu breytu og stórar breytur til að spara þess að ef talvan bilar eða rafmagn dettur út að ekki of mikið sé týnt.
