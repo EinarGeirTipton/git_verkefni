@@ -19,3 +19,5 @@ Git spurningar og svör
 	c) git diff commit1 commit2 = sýnir mismunin milli tveggja commits.
 
 4. 	Hvað er útgáfustýring (e.version control)? = version control fylgist með og geymir allar breytur sem hafa verið gerðar við verkefnið.
+
+5.	Hverjir eru helstu kostir við að nota GIT? = aðalega version control.
